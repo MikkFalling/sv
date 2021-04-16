@@ -1,0 +1,23 @@
+﻿MAPS BY: マルティンMikk
+
+ofbs.- Blue Shift opposing force version.
+ENGLISH
+This is the Blue Shift campaign with weapons and oposing force npcs.
+if you want to play alone or with friends you can download the campaign from moddb.com
+if you will use this on your server. give me credit just leaving the (mapname)_motd.txt
+
+-------------
+
+SPANISH
+es la campaña de Blue Shift con armas y npcs de oposing force.
+si quieres jugar solo o con amigos puedes descargar la campaña desde moddb.com
+si vas a usar esto en tu servidor. dame credito dejando el (mapname)_motd.txt
+
+
+Credits:
+Cubemath
+Wootguy
+
+
+Original Mod
+https://www.moddb.com/mods/na49138
