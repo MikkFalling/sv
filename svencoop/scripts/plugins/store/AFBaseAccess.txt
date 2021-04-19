@@ -10,11 +10,17 @@
 #H - Fun_commands, say, vote
 #IJKLMNOPQRSTUVWXY - Custom access flags 1 to 17
 
-#Mikk
-STEAM_0:0:202010794 AIJKLMNOPQRSTUVWXY
+#Mikk OWNER
+STEAM_0:0:202010794 A B
 
-#Izanagi
- DEFGH
+#Izanagi ADMIN
+STEAM_0:1:88405127 DEFGH
 
-#Blue Rece
- DEFGH
+#Blue Rece ADMIN
+# DEFGH
+
+#Gaftherman ADMIN
+# DEFGH
+
+#Saiko
+STEAM_0:0:206410681 AEH
