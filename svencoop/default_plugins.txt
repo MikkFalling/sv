@@ -21,6 +21,18 @@
 	
 	"plugin"
 	{
+		"name" "ChatColors"
+		"script" "ChatColors"
+	}
+	
+	"plugin"
+	{
+		"name" "emotes"
+		"script" "emotes"
+	}
+	
+	"plugin"
+	{
 		"name" "ClassicModeDeluxe"
 		"script" "ClassicModeDeluxe/ClassicModeDeluxe"
 		"concommandns" "cm"
