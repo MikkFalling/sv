@@ -21,6 +21,7 @@ sound/shl/weapons/p904_reload2.wav
 sound/shl/weapons/plasma1.wav
 sound/shl/weapons/plasma2.wav
 sound/shl/weapons/plasma_re.wav
+sprites/hl_weapons/weapon_hl357.txt
 sprites/shl/weapons/640shl1.spr
 sprites/shl/weapons/640shl2.spr
 sprites/shl/weapons/640shl3.spr
