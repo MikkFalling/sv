@@ -21,6 +21,12 @@
 	
 	"plugin"
 	{
+		"name" "ChatSounds"
+		"script" "ChatSounds"
+	}
+	
+	"plugin"
+	{
 		"name" "AntiBlock"
 		"script" "AntiBlock"
 		"concommandns" "antiblock"
