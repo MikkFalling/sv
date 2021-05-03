@@ -21,6 +21,13 @@
 	
 	"plugin"
 	{
+		"name" "AntiBlock"
+		"script" "AntiBlock"
+		"concommandns" "antiblock"
+	}
+	
+	"plugin"
+	{
 		"name" "ChatColors"
 		"script" "ChatColors"
 	}
