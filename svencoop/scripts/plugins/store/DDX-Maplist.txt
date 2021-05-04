@@ -13,6 +13,10 @@ op4hl_c08_a1
 op4hl_c08_a2
 op4hl_c09_a1
 op4hl_c09_a2
+deliver1
+deliver2
+deliver3
+deliver3b
 echoes00
 echoes01
 echoes01a

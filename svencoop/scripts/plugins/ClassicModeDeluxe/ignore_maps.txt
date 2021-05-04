@@ -1,3 +1,14 @@
 // Don't even try to change classic mode settings for these maps
 // because they already force it on or something.
-
+blkops_c01
+blkops_c01_a1
+blkops_c02
+blkops_c02_a1
+blkops_c03
+blkops_c03_a1
+ops_desrt
+ops_park_1
+ops_jail_1
+ops_jail_2
+ops_jail_3
+ops_jail_4a
