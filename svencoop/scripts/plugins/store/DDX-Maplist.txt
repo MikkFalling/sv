@@ -6,6 +6,13 @@ op4hl_c05_a1
 op4hl_c05_a2
 op4hl_c05_a3
 op4hl_c05_a4
+op4hl_c06
+op4hl_c07_a1
+op4hl_c07_a2
+op4hl_c08_a1
+op4hl_c08_a2
+op4hl_c09_a1
+op4hl_c09_a2
 echoes00
 echoes01
 echoes01a
