@@ -2,13 +2,19 @@
 * This script implements HLSP specific Classic Mode features
 */
 
-#include "hl_weapons/weapon_hl357"
+#include "hl_weapons/weapon_hlpython"
+#include "hl_weapons/weapon_ofm249"
+#include "hl_weapons/weapon_ofshockrifle"
+#include "hl_weapons/weapon_ofsniperrifle"
 #include "cubemath/item_healthkit2"
 
 array<ItemMapping@> g_ItemMappings = {
 	ItemMapping( "weapon_m16", "weapon_9mmAR" ),
 	ItemMapping( "item_healthkit", "item_healthkit2" ),
-	ItemMapping( "weapon_357", GetHLPYTHONName() )
+	ItemMapping( "weapon_m249", "weapon_ofm249" ),
+    ItemMapping( "weapon_357", "weapon_hlpython" ),
+    ItemMapping( "weapon_shockrifle", "weapon_ofshockrifle" ),
+    ItemMapping( "weapon_sniperrifle", "weapon_ofsniperrifle" )
 };
 
 bool ShouldRestartIfClassicModeChangesOn( const string& in szMapName )
@@ -37,6 +43,9 @@ void ClassicModeMapInit()
 	// g_SoundSystem.PrecacheSound( "items/gunpickup2.wav" );
 	
 	RegisterHLPYTHON();
+	RegisterOFM249();
+	RegisterOFSniper();
+	RegisterOFShock();
 	RegisterItemHealthkit2CustomEntity();
 	g_ClassicMode.SetItemMappings( @g_ItemMappings );
 

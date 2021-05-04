@@ -21,6 +21,13 @@
 	
 	"plugin"
 	{
+		"name" "AFKManager"
+		"script" "AFKManager"
+		"concommandns" "afkm"
+	}
+	
+	"plugin"
+	{
 		"name" "ChatSounds"
 		"script" "ChatSounds"
 	}
