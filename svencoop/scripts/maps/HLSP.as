@@ -1,7 +1,6 @@
 #include "point_checkpoint"
 #include "hlsp/trigger_suitcheck"
 #include "HLSPClassicMode"
-#include "hl_weapons/weapons"
 #include "cubemath/trigger_once_mp"
 //#include "cubemath/weapon_debug"
 #include "cubemath/polling_check_players"

@@ -19,12 +19,6 @@
 		"concommandns" "dyndiff"
 	}
 	
-		"plugin"
- 	{
-		"name" "StaticCfg"
-		"script" "StaticCfg"
- 	}
-	
 	"plugin"
 	{
 		"name" "AFKManager"

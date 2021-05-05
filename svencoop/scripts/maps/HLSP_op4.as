@@ -1,6 +1,5 @@
 #include "ofhl_point_checkpoint"
 #include "HLSPClassicMode"
-#include "hl_weapons/weapons"
 #include "hlsp/trigger_suitcheck"
 #include "hl_weapons/weapon_hlshotgun"
 #include "hl_weapons/weapon_hlmp5"
