@@ -1,1 +1,9 @@
 xiao csounds/xiao.ogg
+oni  csounds/oni.mp3
+cashate csounds/cashate.ogg
+yee csounds/yee.wav
+brb  csounds/brb2.mp3
+nope  csounds/nope.wav
+ooh  csounds/ooh.mp3
+gib  csounds/gib.ogg
+carrot  csounds/carrot.ogg
