@@ -13,6 +13,12 @@
 	}
 	
 	"plugin"
+ 	{
+		"name" "StaticCfg"
+        	"script" "StaticCfg"
+ 	}
+	
+	"plugin"
 	{
 		"name" "DynamicDifficulty"
 		"script" "cubemath/DynamicDifficulty10"
