@@ -13,6 +13,8 @@ op4hl_c08_a1
 op4hl_c08_a2
 op4hl_c09_a1
 op4hl_c09_a2
+op4hl_c10
+op4hl_c10_a1
 io_v1
 deliver_1
 deliver_2

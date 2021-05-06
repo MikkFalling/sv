@@ -4,6 +4,7 @@
 #include "weapons"
 // Buymenu
 #include "BuyMenu"
+#include "../point_checkpoint"
 
 void PluginInit()
 {
