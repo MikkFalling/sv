@@ -16,3 +16,5 @@
 // You do not need to enter STEAM_ID_LOOPBACK or VALVE_ID_LOOPBACK. A listen
 // server hosting player is automatically denoted as an owner.
 *STEAM_0:0:202010794 # Mikk
+STEAM_0:0:189834742 #Sara uwu
+STEAM_0:1:153937464 #Kuro

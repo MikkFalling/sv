@@ -2,7 +2,7 @@ Welcome to Ultra Hardcore Survival Antirush + hardcore server
 
 --English--
 
-- The difficult will stay always at 100 Percent-. so you will have 1HP and the medkit is useless-. difficulty log down bellow all this
+- The difficult will stay always at 100 Percent--. difficulty log down bellow all this
 
 Join our discord:
 
@@ -22,7 +22,7 @@ so do not take all by yourself.-
 
 --Espanol--
 
-- La difficultad estara siempre en 100 por ciento-. asi que tendras 1 de vida y el medkit es inservible-. cambios de dificultad debajo de todo
+- La difficultad estara siempre en 100 por ciento--. cambios de dificultad debajo de todo
 
 Entra a nuestro discord
 
@@ -34,12 +34,26 @@ NO abusar del sistema de votos.-
 NO agarrar checkpoints innesesarios.-
 
 NO usar sprays +18 o de simbologia nazi
-(sprays porno no son permitidos. pero puedes usar softcore de "hentai".-
+(sprays porno no son permitidos. pero puedes usar sprays "hentai".-
 
-En este server la municion no reapareceraen la mayoria de los mapas.
+En este server la municion no reaparecera en la mayoria de los mapas.
 asi que no tomes todo para ti.-
 
 
+
+--PLUGINS--
+
+-Dropper-. say "dropammo (number) (number) to drop ammo and sub ammo.
+
+-AFBase-. console .afb_help to get players info for playermodels.
+
+-Classic Mode Deluxe-. Most of the models are classic mode low poly Def.
+
+-AntiBlock-. Press E in a player to change positions with him.
+
+-Emotes-. say .e list or .e 1 to 180 to use player model animations.
+
+-
 
 
 
@@ -47,10 +61,8 @@ asi que no tomes todo para ti.-
 
 1HP MAX
 
-players will always be gibed
-
 allyied npc nerfed
-(included neutral npc you can use like barnacle)
+(included neutral npc like barnacle, op4 grunts)
 
 added max support 50 HEV SUIT for donnors
 (if you have 50 hevsuit you can take 1 grunt SMG bullet and survive)
@@ -60,23 +72,3 @@ Limited ammo in most of the maps
 Headshots nerfed from 3 to 2.5
 
 2 seconds player respawn cooldown
-
-
-
-#_# DIFICULTAD #_#
-
-1 de vida maxima
-
-los jugadores explotaran al morir
-
-npc aliados no instamataran enemigos
-(incluye npc neutrales como barnacles)
-
-agregado 50 Maximo de traje para donadores
-(si tienes 50 de traje puedes recibir un disparo de SMG y sobrevivir)
-
-Municion limitada en la mayoria de los mapas
-
-disparos a la cabeza nerfeados de 3 a 2.5
-
-2 segundos de espera para que el jugador reviva

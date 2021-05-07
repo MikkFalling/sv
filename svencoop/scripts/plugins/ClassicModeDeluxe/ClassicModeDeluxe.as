@@ -35,7 +35,7 @@ bool brokenInstall = false;
 bool cantToggleClassicMode = false;
 
 const float DEFAULT_MAX_SPEED_SVEN = 270;
-const float DEFAULT_MAX_SPEED_HL = 320;
+const float DEFAULT_MAX_SPEED_HL = 270;
 
 string plugin_path = "scripts/plugins/ClassicModeDeluxe/";
 string skill_default_file = "skill_sven50.cfg";
@@ -343,15 +343,15 @@ bool doCommand(CBasePlayer@ plr, const CCommand@ args)
 				if (arg == "1" or arg == "on")
 				{
 					if (g_classic_mode != MODE_ALWAYS_ON)
-						g_PlayerFuncs.SayTextAll(plr, "Classic mode is now ON. All future maps will have classic mode enabled.\n");
+						g_PlayerFuncs.SayTextAll(plr, "Classic mode se activo. reinicia el map wn.\n");
 					else
-						g_PlayerFuncs.SayText(plr, "Classic mode is already set to ON\n");
+						g_PlayerFuncs.SayText(plr, "Classic mode esta activo\n");
 					g_classic_mode = MODE_ALWAYS_ON;
 				}
 				else if (arg == "0" or arg == "off")
 				{
 					if (g_classic_mode != MODE_ALWAYS_OFF)
-						g_PlayerFuncs.SayTextAll(plr, "Classic mode is now OFF. All future maps will have classic mode disabled.\n");
+						g_PlayerFuncs.SayTextAll(plr, "Classic mode esta desactivado.\n");
 					else
 						g_PlayerFuncs.SayText(plr, "Classic mode is already set to OFF\n");
 					g_classic_mode = MODE_ALWAYS_OFF;

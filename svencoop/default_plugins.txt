@@ -14,8 +14,10 @@
 	
 	"plugin"
 	{
+
 		"name" "playerstatus"
 		"script" "playerstatus"
+
 	}
 	
 	"plugin"

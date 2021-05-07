@@ -11,13 +11,16 @@
 #IJKLMNOPQRSTUVWXY - Custom access flags 1 to 17
 
 #Mikk
-STEAM_0:0:202010794 abcdefghjk
+STEAM_0:0:202010794 bcdefghjk
 
 #Izanagi
 STEAM_0:1:88405127 DEFGH
 
 #Blue Rece
 # DEFGH
+
+#Kuro
+STEAM_0:1:153937464 defgh
 
 #Gaftherman
 STEAM_0:0:481307649 bcdefghjk
@@ -26,10 +29,10 @@ STEAM_0:0:481307649 bcdefghjk
 STEAM_0:0:189834742 DEFGH
 
 #Saiko
-STEAM_0:0:206410681 DEF
+STEAM_0:0:206410681 DEg
 
 #Fenix
-STEAM_0:0:166422606 bcdefghjk
+STEAM_0:0:166422606 cdefghjk
 
 #noi
 STEAM_0:0:566665686 eg
