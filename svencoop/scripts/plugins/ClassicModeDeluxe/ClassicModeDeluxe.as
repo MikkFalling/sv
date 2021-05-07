@@ -20,7 +20,7 @@ dictionary ignore_maps;
 bool isClassicMap = false;
 bool isIgnoredMap = false;
 int mapType = MAP_HALF_LIFE;
-int g_classic_mode = MODE_AUTO;
+int g_classic_mode = MODE_ALWAYS_ON;
 bool g_initialized = false;
 
 enum MODES {
