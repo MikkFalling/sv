@@ -313,7 +313,7 @@ final class Diffy {
 			{ 0.15, 0.75, 1.5, 2.0, 3.0, 15.0, 50.0, 50.0 }, // sk_babygargantua_dmg_fire 89
 			{ 2.5, 12.5, 25.0, 50.0, 60.0, 300.0, 6000.0, 1000.0 }, // sk_babygargantua_dmg_stomp 90
 			{ 15.0, 75.0, 150.0, 200.0, 250.0, 375.0, 650.0, 650.0 }, // sk_hwgrunt_health 91
-			{ 1.0, 1.0, 1.0, 1.0, 2.0, 5.0, 8.0, 8.0 }, // sk_hwgrunt_minipellets 92
+			{ 6.0, 6.0, 6.0, 6.0, 6.0, 6.0, 6.0, 6.0 }, // sk_hwgrunt_minipellets 92
 			{ 8.0, 40.0, 80.0, 100.0, 125.0, 150.0, 200.0 , 250.0 }, // sk_rgrunt_explode 93
 			{ 2.5, 12.5, 25.0, 40.0, 50.0, 250.0, 450.0, 450.0 }, // sk_massassin_sniper 94
 			{ 65.0, 65.0, 65.0, 65.0, 65.0, 75.0, 80.0, 90.0 }, // sk_otis_health 95
@@ -847,7 +847,7 @@ final class Diffy {
 		else if(m_fl_difficulty<1.0)
 			bStr = "(Impossible!)";
 		else
-			bStr = "(MAXIMUM DIFFICULTY!)";
+			bStr = "(MAXIMUM DIFFICULTY! Get a life mikk!)";
 			
 		switch(mode){
 		case 0:
@@ -1426,7 +1426,7 @@ HookReturnCode ClientSay2( SayParameters@ pParams ) {
 }
 
 HookReturnCode PlayerKilled( CBasePlayer@ pPlayer, CBaseEntity@, int iGib ){
-	if (g_diffy.getDiff() == 1.0 && !((pPlayer.pev.health < -40 && iGib != GIB_NEVER) || iGib == GIB_ALWAYS)) {
+	if (g_diffy.getDiff() == 1.00 && !((pPlayer.pev.health < -40 && iGib != GIB_NEVER) || iGib == GIB_NEVER)) {
 		pPlayer.GibMonster();
 		pPlayer.pev.deadflag = DEAD_DEAD;
 		pPlayer.pev.effects |= EF_NODRAW;
