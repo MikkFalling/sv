@@ -14,16 +14,32 @@
 	
 	"plugin"
 	{
+		"name" "playerstatus"
+		"script" "playerstatus"
+	}
+	
+	"plugin"
+	{
+
+		"name" "StaticCfg"
+		"script" "StaticCfg"
+
+ 	}
+	
+	"plugin"
+	{
 		"name" "DynamicDifficulty"
 		"script" "cubemath/DynamicDifficulty10"
 		"concommandns" "dyndiff"
 	}
 	
-	"plugin"
-	{
-		"name" "Dropper"
-		"script" "CubeMath/Dropper"
-	}
+        "plugin"
+        {
+
+        "name" "Dropper"
+        "script" "cubemath/Dropper"
+
+        }  
 	
 	"plugin"
 	{
@@ -32,11 +48,13 @@
 		"concommandns" "plydecaltrack"
 	}
 	
-	"plugin"
-	{
-		"name" "AntiSpam"
-		"script" "cubemath/AntiSpam"
-	}
+        "plugin"
+        {
+
+        "name" "AntiSpam"
+        "script" "cubemath/AntiSpam"
+
+        }
 	
 	"plugin"
 	{
