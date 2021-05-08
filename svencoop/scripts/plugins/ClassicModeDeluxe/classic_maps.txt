@@ -1,3 +1,11 @@
+opfor_hl_c02_a1
+opfor_hl_c02_a2
+opfor_hl_c03
+opfor_hl_c04
+opfor_hl_c05_a1
+opfor_hl_c05_a2
+opfor_hl_c06_a1
+opfor_hl_c06_a2
 echoes00
 echoes01
 echoes01a
