@@ -16,7 +16,7 @@ opfor_hl_c03
 opfor_hl_c04
 opfor_hl_c05_a1
 opfor_hl_c05_a2
-opfor_hl_c06
+opfor_hl_c06_a1
 opfor_hl_c07
 opfor_hl_c07_a1
 opfor_hl_c07_a2
