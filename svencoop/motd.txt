@@ -20,38 +20,21 @@ in this server the ammo will not spawn in most of the maps.
 so do not take all by yourself.-
 
 
---Espanol--
 
-- La difficultad estara siempre en 100 por ciento--. cambios de dificultad debajo de todo
-
-Entra a nuestro discord
-
-
--Reglas-
-
-NO abusar del sistema de votos.-
-
-NO agarrar checkpoints innesesarios.-
-
-NO usar sprays +18 o de simbologia nazi
-(sprays porno no son permitidos. pero puedes usar sprays "hentai".-
-
-En este server la municion no reaparecera en la mayoria de los mapas.
-asi que no tomes todo para ti.-
-
+-- Maps in the votemenu are not yet tested. so if you vote for it you will get bugs.-
 
 
 --PLUGINS--
 
--Dropper-. say "dropammo (number) (number) to drop ammo and sub ammo.
+-Dropper-. "say dropammo (number) (number)" to drop ammo and sub ammo.
 
--AFBase-. console .afb_help to get players info for playermodels.
+-AFBase-. ".afb_getmodel @all" to get players info for playermodels.
 
 -Classic Mode Deluxe-. Most of the models are classic mode low poly Def.
 
 -AntiBlock-. Press E in a player to change positions with him.
 
--Emotes-. say .e list or .e 1 to 180 to use player model animations.
+-Emotes-. ".e list" or ".e 1" to 180 to use player model animations.
 
 -
 
