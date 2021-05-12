@@ -173,7 +173,7 @@ void idletestfunc(){
 	if(m_sMap == "dy_outro") return;
 	
   int plyCnt = 0;
-  int g_maxplayersAFK = 29;
+  int g_maxplayersAFK = 180;
   
 	for( int i = 1; i <= g_Engine.maxClients; ++i )	{
 		CBasePlayer@ pPlayer = g_PlayerFuncs.FindPlayerByIndex( i );

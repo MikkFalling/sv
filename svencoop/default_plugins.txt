@@ -14,9 +14,16 @@
 	
 	"plugin"
 	{
+		"name" "AFKKick"
+		"script" "admin/KickIdlePlayers2"
+		"concommandns" "afkkick"
+	}
+	
+	"plugin"
+	{
 
-		"name" "playerstatus"
-		"script" "playerstatus"
+		"name" "PlayerStatus"
+		"script" "PlayerStatus"
 
 	}
 	

@@ -10,7 +10,7 @@ void PluginInit()
 	g_Module.ScriptInfo.SetAuthor("DeepBlueSea");
 	g_Module.ScriptInfo.SetContactInfo("irc://irc.rizon.net/#/dev/null");
 
-	@g_pMaxIdleTime = CCVar("maxidletime", 120, "maximum idle time before players get kicked for being afk (in seconds)", ConCommandFlag::AdminOnly);
+	@g_pMaxIdleTime = CCVar("maxidletime", 180, "maximum idle time before players get kicked for being afk (in seconds)", ConCommandFlag::AdminOnly);
 
 	g_Hooks.RegisterHook( Hooks::Player::ClientPutInServer, @PlayerInit );
 
