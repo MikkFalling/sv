@@ -1,0 +1,37 @@
+// Created with resguy v9 (September 2018)
+// https://github.com/wootguy/resguy
+
+asheep.wad
+maps/azuresheep_c00_a2.res
+maps/azuresheep_c00_a2_motd.txt
+models/cm_v3/bshift/v_9mmar.mdl
+models/cm_v3/bshift/v_9mmhandgun.mdl
+models/cm_v3/bshift/v_crowbar.mdl
+models/cm_v3/bshift/v_grenade.mdl
+models/cm_v3/bshift/v_medkit.mdl
+models/cm_v3/bshift/v_satchel.mdl
+models/cm_v3/bshift/v_satchel_radio.mdl
+models/cm_v3/bshift/v_shotgun.mdl
+models/mikk/azuresheep/barniel.mdl
+models/mikk/azuresheep/barniel01.mdl
+models/mikk/azuresheep/barniel02.mdl
+models/mikk/azuresheep/barniel03.mdl
+models/mikk/azuresheep/barnielt.mdl
+models/mikk/azuresheep/global_pt1.txt
+sound/azuresheep_sentences.txt
+sound/kate/correctway.wav
+sound/kate/freebarney.wav
+sound/kate/hevno.wav
+sound/kate/iamkate.wav
+sound/kate/ka_attack1.wav
+sound/kate/resquedatlast.wav
+sound/kate/seelater.wav
+sound/kate/seeyoulater.wav
+sound/kate/somethingmove.wav
+sound/kate/staypost.wav
+sound/kate/waithere.wav
+sound/kate/waithere2.wav
+sound/kate/welcome.wav
+sound/kate/whatgoingon2.wav
+sound/kate/yesbarn.wav
+sound/kate/youwish.wav

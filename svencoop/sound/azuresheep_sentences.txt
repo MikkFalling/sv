@@ -1,4 +1,5 @@
 
+
 BN_IDLE0 barniel/movietv
 BN_IDLE1 barniel/badfeeling
 BN_IDLE2 barniel/aimforhead
@@ -8,6 +9,32 @@ BN_STARE2 barniel/badfeeling
 BN_POK0 barniel/bn_post
 BN_HISTOP1 barniel/humm, waitin
 BN_SLEEP1 barniel/bn_die1
+
+
+BN_RETINA0 barniel/yessir
+BN_NOFOLLOW0 barniel/seelater
+BN_VAR0 barniel/hevno
+BN_VAR1 barniel/seeya
+KA_WAIT0 kate/waithere
+KA_VAR0 kate/ka_attack1
+KA_VAR1 kate/iamkate
+KA_VAR2 kate/freebarney
+KA_VAR3 kate/seelater
+KA_VAR4 kate/hevno
+KA_VAR5 kate/resquedatlast
+KA_VAR6 kate/staypost
+KA_VAR7 kate/welcome
+KA_NOWATER0 kate/waithere2
+KA_WAIT0 kate/seeyoulater
+KA_RETINA0 kate/yesbarn
+KA_PLAT0 kate/correctway
+KA_ARRESTED0 common/null
+KA_SCRIPT0 kate/whatgoingon2
+KA_SCRIPT1 kate/somethingmove
+KA_SCRIPT2 kate/ka_attack1
+KA_SCRIPT3 kate/youwish
+
+// OTIS
 OT_OK0 barniel/teamup2
 OT_OK1 barniel/teamup1
 OT_OK2 barniel/teamup2
@@ -106,25 +133,99 @@ OT_MORTAL0 barniel/hitbad
 OT_MORTAL1 barniel/imhit
 
 
-BN_RETINA0 barniel/yessir
-BN_NOFOLLOW0 barniel/seelater
-BN_VAR0 barniel/hevno
-BN_VAR1 barniel/seeya
-KA_WAIT0 kate/waithere
-KA_VAR0 kate/ka_attack1
-KA_VAR1 kate/iamkate
-KA_VAR2 kate/freebarney
-KA_VAR3 kate/seelater
-KA_VAR4 kate/hevno
-KA_VAR5 kate/resquedatlast
-KA_VAR6 kate/staypost
-KA_VAR7 kate/welcome
-KA_NOWATER0 kate/waithere2
-KA_WAIT0 kate/seeyoulater
-KA_RETINA0 kate/yesbarn
-KA_PLAT0 kate/correctway
-KA_ARRESTED0 common/null
-KA_SCRIPT0 kate/whatgoingon2
-KA_SCRIPT1 kate/somethingmove
-KA_SCRIPT2 kate/ka_attack1
-KA_SCRIPT3 kate/youwish
+//FRIENDLY GRUNT
+
+FG_POK0 kate/teamup2
+FG_POK1 kate/teamup1
+FG_POK2 kate/teamup1
+FG_POK3 kate/teamup2
+INTRO_FG2_L4 fgrunt/intro_fg12(e31) intro_FG08
+// End BC Custom
+
+FG_QUESTION0 kate/cupoftie
+FG_QUESTION1 kate/badfelling
+FG_QUESTION2 kate/correctway
+FG_QUESTION3 kate/whatgoingon
+FG_QUESTION4 kate/thinking
+FG_QUESTION5 kate/bigeye
+
+FG_ANSWER0 kate/bequiet
+FG_ANSWER1 kate/dontagree
+FG_ANSWER2 kate/dontknow
+
+FG_GREN0 kate/youneedmedic
+
+FG_ALERT0 kate/whatgoingon
+FG_ALERT1 kate/notatall
+FG_ALERT2 kate/hoyes
+FG_ALERT3 kate/badfelling
+
+FG_MONSTER0 kate/dinnerend
+FG_MONSTER1 kate/thinking
+
+FG_CLEAR0 kate/yesbarn
+FG_CLEAR1 kate/hi
+
+FG_OK0 kate/teamup2
+FG_OK1 kate/teamup1
+FG_OK2 kate/teamup2
+FG_OK3 kate/teamup1
+FG_OK4 kate/teamup2
+FG_OK5 kate/teamup1
+FG_OK6 kate/teamup2
+FG_OK7 kate/teamup1
+FG_OK8 kate/teamup2
+FG_OK9 kate/teamup1
+
+FG_SCARED0 kate/bigeye
+FG_SCARED1 kate/bigeye
+
+FG_WAIT0 kate/stop1
+FG_WAIT1 kate/stop1
+FG_WAIT2 kate/stop1
+FG_WAIT3 kate/stop1
+
+FG_STOP0 kate/stop1
+FG_STOP1 kate/stop1
+FG_STOP2 kate/stop1
+FG_STOP3 kate/stop1
+
+FG_KILL0 kate/bringitone
+FG_KILL1 kate/close
+FG_KILL2 kate/oneless
+FG_KILL3 kate/gotone
+FG_KILL4 kate/gotanother
+FG_KILL5 kate/didseeshot
+FG_KILL6 kate/anotherdown
+
+FG_IDLE0 kate/badfelling
+FG_IDLE1 kate/cupoftie
+FG_IDLE2 kate/hummm
+FG_IDLE3 kate/hummm
+FG_IDLE4 kate/bigeye
+FG_IDLE5 kate/hummm
+
+FG_ATTACK0 kate/aimforhead
+FG_ATTACK1 kate/ka_attack1
+FG_ATTACK2 kate/openfire
+FG_ATTACK3 kate/dieslimy
+
+FG_MAD0 kate/youwish
+FG_MAD1 kate/youaredead
+
+FG_HELLO0 kate/hi
+FG_HELLO1 kate/hi
+FG_HELLO2 kate/hi
+
+FG_WOUND0 kate/hitbad
+FG_WOUND1 kate/hitbad
+FG_WOUND2 kate/hitbad2
+
+AZS_FARWAR1 ambience/(v30) distantmortar1 distantmortar3 distantmortar2 mgun_burst3 mgun_burst2 distantmortar2
+AZS_FARWAR2 ambience/(v15) mgun_burst1 mgun_burst3 mgun_burst3
+AZS_BATHRWOM1 girl/hctroub
+BA_HISTOP1 barney/dontguess, illwait
+BA_SLEEP1 barney/ba_die3
+BA_GOON1 barney/goon
+SC_VAR0 scientist/whoareyou
+SC_VAR1 scientist/wareh

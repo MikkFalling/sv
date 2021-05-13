@@ -56,7 +56,7 @@ class weapon_ofm249 : ScriptBasePlayerWeaponEntity
 	void Precache()
 	{
 		self.PrecacheCustomModels();
-		g_Game.PrecacheModel( "models/hlclassic/v_saw.mdl" );
+		g_Game.PrecacheModel( "models/cm_v3/bshift/v_saw.mdl" );
 		g_Game.PrecacheModel( "models/hlclassic/w_saw.mdl" );
 		g_Game.PrecacheModel( "models/hlclassic/p_saw.mdl" );
 
@@ -121,7 +121,7 @@ class weapon_ofm249 : ScriptBasePlayerWeaponEntity
 		self.m_fInReload = false;
 		m_fM249Reload = false;
 		UpdateTape();
-		return self.DefaultDeploy( self.GetV_Model( "models/hlclassic/v_saw.mdl" ), self.GetP_Model( "models/hlclassic/p_saw.mdl" ), M249_DEPLOY, "saw", 0, self.pev.body );
+		return self.DefaultDeploy( self.GetV_Model( "models/cm_v3/bshift/v_saw.mdl" ), self.GetP_Model( "models/hlclassic/p_saw.mdl" ), M249_DEPLOY, "saw", 0, self.pev.body );
 	}
 
 	void Holster( int skiplocal )

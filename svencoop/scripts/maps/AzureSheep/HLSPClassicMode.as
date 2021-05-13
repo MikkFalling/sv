@@ -5,18 +5,14 @@
 #include "weapon_hl357"
 #include "item_healthkit2"
 #include "weapon_ofm249"
-#include "weapon_ofsniperrifle"
-#include "weapon_ofshockrifle"
 #include "weapon_blue_rec3"
-#include "weapon_mp41a"
+#include "weapon_9mmm41a"
 #include "weapon_9mmberetta"
 
 array<ItemMapping@> g_ItemMappings = {
 	ItemMapping( "weapon_m16", "weapon_9mmAR" ),
 	ItemMapping( "item_healthkit", "item_healthkit2" ),
 	ItemMapping( "weapon_m249", GetOFM249Name() ),
-	ItemMapping( "weapon_sniperrifle", GetOFSniperName() ),
-	ItemMapping( "weapon_shockrifle", GetOFShockName() ),
 	ItemMapping( "weapon_357", GetHLPYTHONName() )
 };
 
@@ -45,13 +41,11 @@ void ClassicModeMapInit()
 	
 	RegisterHLPYTHON();
 	RegisterOFM249();
-	RegisterOFSniper();
-	RegisterOFShock();
 	RegisterGluonGun();
 	RegisterGluon();
 	RegisterGluonAmmo();
-	RegisterHLMP5();
-	RegisterHL9mmhandgun();
+	T9MM41A::Register();
+	BERETTA::Register();
 	RegisterItemHealthkit2CustomEntity();
 	g_ClassicMode.SetItemMappings( @g_ItemMappings );
 
@@ -124,7 +118,7 @@ void ClassicModeVoteEnd( Vote@ pVote, bool bResult, int iVoters )
 {
 	if( !bResult )
 	{
-		g_PlayerFuncs.ClientPrintAll( HUD_PRINTNOTIFY, "Vote for Classic Mode failed. Que rico te mueves Sara" );
+		g_PlayerFuncs.ClientPrintAll( HUD_PRINTNOTIFY, "Vote for Classic Mode failed" );
 		return;
 	}
 	

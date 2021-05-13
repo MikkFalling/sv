@@ -44,7 +44,7 @@ class weapon_hl357 : ScriptBasePlayerWeaponEntity
 
 		g_Game.PrecacheGeneric( "sprites/hl_weapons/weapon_hl357.txt" );
 
-		g_Game.PrecacheModel( "models/hlclassic/v_357.mdl" );
+		g_Game.PrecacheModel( "models/cm_v3/bshift/v_357.mdl" );
 		g_Game.PrecacheModel( "models/hlclassic/w_357.mdl" );
 		g_Game.PrecacheModel( "models/hlclassic/p_357.mdl" );
 
@@ -107,7 +107,7 @@ class weapon_hl357 : ScriptBasePlayerWeaponEntity
 
 	bool Deploy()
 	{
-		return self.DefaultDeploy( self.GetV_Model( "models/hlclassic/v_357.mdl" ), self.GetP_Model( "models/hlclassic/p_357.mdl" ), PYTHON_DRAW, "python" );
+		return self.DefaultDeploy( self.GetV_Model( "models/cm_v3/bshift/v_357.mdl" ), self.GetP_Model( "models/hlclassic/p_357.mdl" ), PYTHON_DRAW, "python" );
 	}
 
 	void Holster(int skiplocal){

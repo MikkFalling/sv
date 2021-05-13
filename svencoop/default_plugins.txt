@@ -14,6 +14,12 @@
 	
 	"plugin"
 	{
+		"name" "SinkingShip"
+		"script" "cubemath/SinkingShip3"
+	}
+	
+	"plugin"
+	{
 		"name" "AFKKick"
 		"script" "admin/KickIdlePlayers2"
 		"concommandns" "afkkick"
