@@ -1,5 +1,3 @@
-
-
 BN_IDLE0 barniel/movietv
 BN_IDLE1 barniel/badfeeling
 BN_IDLE2 barniel/aimforhead
@@ -9,8 +7,6 @@ BN_STARE2 barniel/badfeeling
 BN_POK0 barniel/bn_post
 BN_HISTOP1 barniel/humm, waitin
 BN_SLEEP1 barniel/bn_die1
-
-
 BN_RETINA0 barniel/yessir
 BN_NOFOLLOW0 barniel/seelater
 BN_VAR0 barniel/hevno
@@ -33,8 +29,6 @@ KA_SCRIPT0 kate/whatgoingon2
 KA_SCRIPT1 kate/somethingmove
 KA_SCRIPT2 kate/ka_attack1
 KA_SCRIPT3 kate/youwish
-
-// OTIS
 OT_OK0 barniel/teamup2
 OT_OK1 barniel/teamup1
 OT_OK2 barniel/teamup2
@@ -42,7 +36,6 @@ OT_OK3 barniel/teamup1
 OT_OK4 barniel/teamup2
 OT_OK5 barniel/teamup2
 OT_OK6 barniel/teamup1
-
 OT_WAIT0 barniel/waitin
 OT_WAIT1 barniel/stop1
 OT_WAIT2 barniel/waitin
@@ -50,12 +43,10 @@ OT_WAIT3 barniel/waitin
 OT_WAIT4 barniel/stop1
 OT_WAIT5 barniel/waitin
 OT_WAIT6 barniel/waitin
-
 OT_HELLO0 barniel/hi
 OT_HELLO1 barniel/hi
 OT_HELLO2 barniel/hi
 OT_HELLO3 barniel/hi
-
 OT_QUESTION0 barniel/drinktopside
 OT_QUESTION1 barniel/rightway
 OT_QUESTION2 barniel/thinking
@@ -63,7 +54,6 @@ OT_QUESTION3 barniel/slimything
 OT_QUESTION4 barniel/whatsgoingon
 OT_QUESTION5 barniel/whatsgoingon
 OT_QUESTION6 barniel/rightway
-
 OT_ANSWER0 barniel/yessir
 OT_ANSWER1 barniel/dontagree
 OT_ANSWER2 barniel/humm
@@ -84,7 +74,6 @@ OT_ANSWER17 barniel/humm
 OT_ANSWER18 barniel/dontagree
 OT_ANSWER19 barniel/nosir
 OT_ANSWER20 barniel/humm
-
 OT_KILL0 barniel/bn_onelessh
 OT_KILL1 barniel/bn_seethat
 OT_KILL2 barniel/bn_another
@@ -92,140 +81,38 @@ OT_KILL3 barniel/bn_gotone
 OT_KILL4 barniel/bn_close
 OT_KILL5 barniel/bn_firepl
 OT_KILL6 barniel/bn_bring
-
 OT_MAD0 barniel/bn_tomb
 OT_MAD1 barniel/bn_dontmake
 OT_MAD2 barniel/bn_somuch
 OT_MAD3 barniel/bn_endline
-
 OT_SHOT0 barniel/bn_friends
 OT_SHOT1 barniel/bn_whatyou
 OT_SHOT2 barniel/bn_becarefull
 OT_SHOT3 barniel/bn_dontdothat
 OT_SHOT4 barniel/bn_carefull
 OT_SHOT5 barniel/hitbad
-
 OT_IDLE0 barniel/youneedmedic
-
+OT_IDLE1 barniel/hearsomething
+OT_IDLE2 barniel/hearsomething
+OT_IDLE3 barniel/youneedmedic
+OT_IDLE4 barniel/hearsomething
+OT_IDLE5 barniel/youneedmedic
+OT_IDLE6 barniel/hearsomething
 OT_ATTACK0 barniel/openfire
 OT_ATTACK1 barniel/bn_attack1
 OT_ATTACK2 barniel/aimforhead
 OT_ATTACK3 barniel/diegreenthing
-
 OT_HEAR0 barniel/hearsomething
 OT_HEAR1 barniel/hearsomething
-
 OT_SMELL0 barniel/somethingmoves
 OT_SMELL1 barniel/somethingmoves
 OT_SMELL2 barniel/somethingmoves
-
 OT_CUREA barniel/youneedmedic
 OT_CUREB barniel/youneedmedic
 OT_CUREC barniel/youneedmedic
-
 OT_SCARED0 barniel/bn_whatyou
 OT_SCARED1 barniel/bn_dontdothat
-
 OT_WOUND0 barniel/imhit
 OT_WOUND1 barniel/hitbad
-
 OT_MORTAL0 barniel/hitbad
 OT_MORTAL1 barniel/imhit
-
-
-//FRIENDLY GRUNT
-
-FG_POK0 kate/teamup2
-FG_POK1 kate/teamup1
-FG_POK2 kate/teamup1
-FG_POK3 kate/teamup2
-INTRO_FG2_L4 fgrunt/intro_fg12(e31) intro_FG08
-// End BC Custom
-
-FG_QUESTION0 kate/cupoftie
-FG_QUESTION1 kate/badfelling
-FG_QUESTION2 kate/correctway
-FG_QUESTION3 kate/whatgoingon
-FG_QUESTION4 kate/thinking
-FG_QUESTION5 kate/bigeye
-
-FG_ANSWER0 kate/bequiet
-FG_ANSWER1 kate/dontagree
-FG_ANSWER2 kate/dontknow
-
-FG_GREN0 kate/youneedmedic
-
-FG_ALERT0 kate/whatgoingon
-FG_ALERT1 kate/notatall
-FG_ALERT2 kate/hoyes
-FG_ALERT3 kate/badfelling
-
-FG_MONSTER0 kate/dinnerend
-FG_MONSTER1 kate/thinking
-
-FG_CLEAR0 kate/yesbarn
-FG_CLEAR1 kate/hi
-
-FG_OK0 kate/teamup2
-FG_OK1 kate/teamup1
-FG_OK2 kate/teamup2
-FG_OK3 kate/teamup1
-FG_OK4 kate/teamup2
-FG_OK5 kate/teamup1
-FG_OK6 kate/teamup2
-FG_OK7 kate/teamup1
-FG_OK8 kate/teamup2
-FG_OK9 kate/teamup1
-
-FG_SCARED0 kate/bigeye
-FG_SCARED1 kate/bigeye
-
-FG_WAIT0 kate/stop1
-FG_WAIT1 kate/stop1
-FG_WAIT2 kate/stop1
-FG_WAIT3 kate/stop1
-
-FG_STOP0 kate/stop1
-FG_STOP1 kate/stop1
-FG_STOP2 kate/stop1
-FG_STOP3 kate/stop1
-
-FG_KILL0 kate/bringitone
-FG_KILL1 kate/close
-FG_KILL2 kate/oneless
-FG_KILL3 kate/gotone
-FG_KILL4 kate/gotanother
-FG_KILL5 kate/didseeshot
-FG_KILL6 kate/anotherdown
-
-FG_IDLE0 kate/badfelling
-FG_IDLE1 kate/cupoftie
-FG_IDLE2 kate/hummm
-FG_IDLE3 kate/hummm
-FG_IDLE4 kate/bigeye
-FG_IDLE5 kate/hummm
-
-FG_ATTACK0 kate/aimforhead
-FG_ATTACK1 kate/ka_attack1
-FG_ATTACK2 kate/openfire
-FG_ATTACK3 kate/dieslimy
-
-FG_MAD0 kate/youwish
-FG_MAD1 kate/youaredead
-
-FG_HELLO0 kate/hi
-FG_HELLO1 kate/hi
-FG_HELLO2 kate/hi
-
-FG_WOUND0 kate/hitbad
-FG_WOUND1 kate/hitbad
-FG_WOUND2 kate/hitbad2
-
-AZS_FARWAR1 ambience/(v30) distantmortar1 distantmortar3 distantmortar2 mgun_burst3 mgun_burst2 distantmortar2
-AZS_FARWAR2 ambience/(v15) mgun_burst1 mgun_burst3 mgun_burst3
-AZS_BATHRWOM1 girl/hctroub
-BA_HISTOP1 barney/dontguess, illwait
-BA_SLEEP1 barney/ba_die3
-BA_GOON1 barney/goon
-SC_VAR0 scientist/whoareyou
-SC_VAR1 scientist/wareh
