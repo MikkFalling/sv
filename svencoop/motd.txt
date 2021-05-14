@@ -14,8 +14,7 @@ Do NOT abuse the voting system-.
 
 Do NOT take unnesesary checkpoint's.-
 
-Do NOT use +18 or nazi simbols sprays.
-(porn are not allowed. but "hentai" can be allowed.-
+Do NOT use +18 or some simbols sprays.
 
 in this server the ammo will not spawn in most of the maps.
 so do not take all by yourself.-
@@ -37,7 +36,7 @@ so do not take all by yourself.-
 
 -Emotes-. ".e list" or ".e 1" to 180 to use player model animations.
 
--
+-Chatsounds-. "-listsounds" to see all sounds.
 
 
 
@@ -48,8 +47,7 @@ so do not take all by yourself.-
 allyied npc nerfed
 (included neutral npc like barnacle, op4 grunts)
 
-added max support 50 HEV SUIT for donnors
-(if you have 50 hevsuit you can take 1 grunt SMG bullet and survive)
+added max support 50 HEV SUIT for donnors)
 
 Limited ammo in most of the maps
 
