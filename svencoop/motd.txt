@@ -1,30 +1,42 @@
 Welcome to Ultra Hardcore Survival Antirush + hardcore server
 
+Español abajo de todo p pavo:
+
+
 --English--
 
-- The difficult will stay always at 100 Percent--. difficulty log down bellow all this
-
-Join our discord:
-https://discord.gg/GhUZ7HFM
+By playing on this game server, you agree to abide by our rules.
 
 
 -Rules-
 
-Do NOT abuse the voting system-.
+  1. Excessive use of insults, racism, in general use of toxic behaviour will never be tolerated.-
 
-Do NOT take unnesesary checkpoint's.-
+  2- Do NOT Excessive use of the voting systems, map, kill, diff. etc.-
 
-Do NOT use +18 or some simbols sprays.
+  3- Any spray indicating racial hatred, harassment, pornography are not allowed.-
 
-in this server the ammo will not spawn in most of the maps.
-so do not take all by yourself.-
 
+  *   Do NOT take unnesesary checkpoint's.-
+
+  *   in this server the ammo will not spawn in most of the maps.
+      so do not take all by yourself.-
+
+  * This is a public server and English is the global language.-
+     Be respectful and use this language.-
+
+  * Do not spam lot of chatsounds.-
+
+  * Join our Discord server:
+https://discord.gg/GhUZ7HFM
 
 
 -- Maps in the votemenu are not yet tested. so if you vote for it you will get bugs.-
 
 
 --PLUGINS--
+
+-Dynamic difficulty-. say "diff (number) (50 to 100) to start a vote.
 
 -Dropper-. "say dropammo (number) (number)" to drop ammo and sub ammo.
 
@@ -40,17 +52,29 @@ so do not take all by yourself.-
 
 
 
-#_# DIFFICULTY LOG #_#
+ESPAÑOL:
 
-1HP MAX
+Jugar en este servidor significa que aceptas nuestras reglas.
 
-allyied npc nerfed
-(included neutral npc like barnacle, op4 grunts)
 
-added max support 50 HEV SUIT for donnors)
+-Reglas-
 
-Limited ammo in most of the maps
+  1. Exesivo uso de insultos. racismo. o comportamiento toxico en general no sera tolerado.-
 
-Headshots nerfed from 3 to 2.5
+  2- No hagas uso excesivo del sistema de votos, mapa, matar, diff, etc.-
 
-2 seconds player respawn cooldown
+  3- Cualquier spray que indique odio racial, acoso o pornografia no esta permitido.-
+
+
+  *   No tomes checkpoint's innecesarios.-
+
+  *   En este server la municion no reaparecera en la mayoria de mapas
+      Asi que no tomes todo para ti.-
+
+  *  Este es un server publico y el ingles es su lenguaje global.-
+     Se respetuoso e intenta utilizar este lenguaje.-
+
+  * No spamees sonidos.-
+
+  * Entra a nuestro discord:
+https://discord.gg/GhUZ7HFM

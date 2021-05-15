@@ -13,4 +13,3 @@
 "models/v_egon.mdl" "models/mikk/azuresheep/v_egon.mdl"
 "models/v_squeak.mdl" "models/mikk/azuresheep/v_squeak.mdl"
 "models/v_tripmine.mdl" "models/mikk/azuresheep/v_tripmine.mdl"
-"models/otis.mdl" "models/mikk/azuresheep/barniel.mdl"

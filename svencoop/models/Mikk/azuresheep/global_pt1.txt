@@ -1,4 +1,7 @@
-"models/v_crowbar.mdl" "models/cm_v3/bshift/v_crowbar.mdl"
+"models/v_crowbar.mdl" "models/mikk/azuresheep/v_crowbar_poolstick.mdl"
+"models/w_crowbar.mdl" "models/mikk/azuresheep/w_poolstick.mdl"
+"models/w_crowbart.mdl" "models/mikk/azuresheep/w_poolstickt.mdl"
+"models/p_crowbar.mdl" "models/mikk/azuresheep/p_poolstick.mdl"
 "models/v_medkit.mdl" "models/cm_v3/bshift/v_medkit.mdl"
 "models/v_9mmar.mdl" "models/cm_v3/bshift/v_9mmar.mdl"
 "models/v_9mmhandgun.mdl" "models/cm_v3/bshift/v_9mmhandgun.mdl"
