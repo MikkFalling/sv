@@ -51,7 +51,7 @@ string SHOOT_S = "ins2/wpn/coach/shoot.ogg";
 string EMPTY_S = "ins2/wpn/coach/empty.ogg";
 string BOTH_S  = "ins2/wpn/coach/sboth.ogg";
 // Information
-int MAX_CARRY   	= 1000;
+int MAX_CARRY   	= 100;
 int MAX_CLIP    	= 2;
 int DEFAULT_GIVE 	= MAX_CLIP * 10;
 int WEIGHT      	= 20;

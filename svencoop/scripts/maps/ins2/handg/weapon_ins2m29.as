@@ -76,12 +76,12 @@ string SPR_CAT = "ins2/hdg/"; //Weapon category used to get the sprite's locatio
 string SHOOT_S = "ins2/wpn/m29/shoot.ogg";
 string EMPTY_S = "ins2/wpn/m29/empty.ogg";
 // Information
-int MAX_CARRY   	= 1000;
+int MAX_CARRY   	= 150;
 int MAX_CLIP    	= 6;
 int DEFAULT_GIVE 	= MAX_CLIP * 6;
 int WEIGHT      	= 20;
 int FLAGS       	= ITEM_FLAG_NOAUTORELOAD | ITEM_FLAG_NOAUTOSWITCHEMPTY;
-uint DAMAGE     	= 55;
+uint DAMAGE     	= 65;
 uint SLOT       	= 1;
 uint POSITION   	= 15;
 float RPM_AIR   	= 1.0f; //Rounds per minute in air

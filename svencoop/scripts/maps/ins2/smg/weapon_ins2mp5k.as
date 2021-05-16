@@ -45,7 +45,7 @@ string SPR_CAT = "ins2/smg/"; //Weapon category used to get the sprite's locatio
 // Sounds
 string SHOOT_S = "ins2/wpn/mp5k/shoot.ogg";
 // Information
-int MAX_CARRY   	= 1000;
+int MAX_CARRY   	= 150;
 int MAX_CLIP    	= 30;
 int DEFAULT_GIVE 	= MAX_CLIP * 4;
 int WEIGHT      	= 20;

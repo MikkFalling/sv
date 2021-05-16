@@ -65,9 +65,9 @@ string EMPTY_S = "ins2/wpn/akm/empty.ogg";
 string SHOOTGL = "ins2/wpn/gp30/shoot.ogg";
 string EMPTYGL = "ins2/wpn/gp30/empty.ogg";
 // Information
-int MAX_CARRY   	= 1000;
+int MAX_CARRY   	= 150;
 int MAX_CLIP    	= 30;
-int MAX_CARRY2  	= 1000;
+int MAX_CARRY2  	= 5;
 int MAX_CLIP2   	= 1;
 int DEFAULT_GIVE 	= MAX_CLIP * 4;
 int DEFAULT_GIVE2	= MAX_CLIP2 * 2;

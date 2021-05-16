@@ -70,9 +70,9 @@ string SPR_CAT = "ins2/exp/"; //Weapon category used to get the sprite's locatio
 string SHOOT_S = "ins2/wpn/m79/shoot.ogg";
 string SHOOT_A = "ins2/wpn/m79/shoot1.ogg"; // Alternative
 // Information
-int MAX_CARRY   	= 1000;
+int MAX_CARRY   	= 10;
 int MAX_CLIP    	= 1;
-int MAX_CARRY2  	= 1000;
+int MAX_CARRY2  	= 100;
 int MAX_CLIP2   	= 1;
 int DEFAULT_GIVE 	= MAX_CLIP * 8;
 int DEFAULT_GIVE2	= MAX_CLIP2 * 8;

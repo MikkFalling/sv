@@ -14,6 +14,12 @@
 	
 	"plugin"
 	{
+		"name" "NpcPrecache"
+		"script" "NpcPrecache"
+	}
+	
+	"plugin"
+	{
 		"name" "SinkingShip"
 		"script" "cubemath/SinkingShip3"
 	}

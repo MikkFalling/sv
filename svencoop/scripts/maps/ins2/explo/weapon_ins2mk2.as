@@ -36,7 +36,7 @@ string P_MODEL = "models/ins2/wpn/mk2gren/p_mk2.mdl";
 // Sprites
 string SPR_CAT = "ins2/exp/"; //Weapon category used to get the sprite's location
 // Information
-int MAX_CARRY   	= 1000;
+int MAX_CARRY   	= 10;
 int MAX_CLIP    	= WEAPON_NOCLIP;
 int DEFAULT_GIVE 	= 1;
 int WEIGHT      	= 20;

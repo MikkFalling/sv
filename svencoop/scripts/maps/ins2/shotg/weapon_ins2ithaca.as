@@ -54,7 +54,7 @@ string SPR_CAT = "ins2/shg/"; //Weapon category used to get the sprite's locatio
 string SHOOT_S = "ins2/wpn/ithaca/shoot.ogg";
 string EMPTY_S = "ins2/wpn/ithaca/empty.ogg";
 // Information
-int MAX_CARRY   	= 1000;
+int MAX_CARRY   	= 100;
 int MAX_CLIP    	= 6;
 int DEFAULT_GIVE 	= MAX_CLIP * 4;
 int WEIGHT      	= 20;

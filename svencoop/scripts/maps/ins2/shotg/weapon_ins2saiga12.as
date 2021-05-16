@@ -46,7 +46,7 @@ string SPR_CAT = "ins2/shg/"; //Weapon category used to get the sprite's locatio
 string SHOOT_S = "ins2/wpn/saiga/shoot.ogg";
 string EMPTY_S = "ins2/wpn/saiga/empty.ogg";
 // Information
-int MAX_CARRY   	= 1000;
+int MAX_CARRY   	= 100;
 int MAX_CLIP    	= 20;
 int DEFAULT_GIVE 	= MAX_CLIP * 4;
 int WEIGHT      	= 100;
