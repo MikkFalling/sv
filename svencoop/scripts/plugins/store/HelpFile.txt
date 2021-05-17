@@ -1,2 +1,0 @@
-HelpFile.txt
-Hello World!
