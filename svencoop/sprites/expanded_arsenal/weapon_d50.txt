@@ -1,0 +1,6 @@
+6
+ammo            640	expanded_arsenal/ammo_new		24  72  24  24
+autoaim			640 crosshairs						24	0	24	24
+weapon			640 expanded_arsenal/d50			0	90	170	45
+weapon_s		640 expanded_arsenal/d50			0	135	170	45
+zoom            640 expanded_arsenal/d50_scope  	0  	0   256  256

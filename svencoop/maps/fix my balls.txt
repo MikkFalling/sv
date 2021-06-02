@@ -1,0 +1,1 @@
+c03 para arriba agregar glow's y cambiar mensaje para game_text chido
