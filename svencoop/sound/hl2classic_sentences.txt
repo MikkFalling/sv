@@ -1,0 +1,33 @@
+//Half Life 2 Classic Mod Sentences
+
+//Monk/Grigori sentences
+MONK_CLOSER hl2/monk/shotgun_closer
+MONK_HELL hl2/monk/shotgun_stirreduphell
+MONK_KEEP hl2/monk/shotgun_keepclose
+MONK_BUCKET1 hl2/monk/bucket_thereyouare
+MONK_BUCKET2 hl2/monk/bucket_almost
+MONK_BUCKET3 hl2/monk/bucket_step
+MONK_YARD hl2/monk/yard_greetings
+MONK_WELLDONE hl2/monk/firetrap_welldone
+MONK_BEHINDYOU hl2/monk/firetrap_behindyou
+MONK_VIGILANT hl2/monk/firetrap_vigil
+MONK_APOLOGIZE hl2/monk/attic_apologize
+MONK_WRONGSIDE hl2/monk/wrongside
+MONK_IAMGRIG hl2/monk/cartrap_iamgrig
+MONK_SALVATION hl2/monk/exit_salvation
+MONK_HURRY hl2/monk/exit_hurry
+
+MONK_LAUGH3 hl2/monk/madlaugh03
+
+
+MONK_KILL0 hl2/monk/monk_kill01
+MONK_KILL1 hl2/monk/monk_kill02
+MONK_KILL2 hl2/monk/monk_kill03
+MONK_KILL3 hl2/monk/monk_kill04
+MONK_KILL4 hl2/monk/monk_kill05
+MONK_KILL5 hl2/monk/monk_kill06
+MONK_KILL6 hl2/monk/monk_kill07
+MONK_KILL7 hl2/monk/monk_kill08
+MONK_KILL8 hl2/monk/monk_kill09
+MONK_KILL9 hl2/monk/monk_kill10
+MONK_KILL10 hl2/monk/monk_kill11
