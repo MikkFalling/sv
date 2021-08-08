@@ -1,0 +1,90 @@
+Sven Co-op Conversion & Anti-Rush by Mikk & Gaftherman
+
+Thanks to:
+Cubemath For Anti Rush system
+Outerbeast for checkpoint spawner, weapon_knife, anti-rush entity and godmode otis
+Dissident (Rizulix) for opfor classic weapons
+Gaftherman for merge the scripts
+W00tguy for merge tool and classic models
+
+SOURCES:
+https://www.moddb.com/mods/a-soldiers-tale
+https://github.com/Outerbeast/Opposing-Force-Knife
+https://github.com/Outerbeast/Entities-and-Gamemodes/blob/master/checkpoint_spawner.as
+https://github.com/Outerbeast/anti_rush
+https://github.com/Rizulix/Classic-Weapons
+https://github.com/wootguy/ClassicModeDeluxe
+
+------General Information--------------------------------------------
+Sven Co-op Conversion	Mikk
+Campaign author 	Matt Arnold
+Author Email		matt_a82@hotmail.com
+Home page		http://www.clanfdru.co.uk
+------Credits and Thanks---------------------------------------------
+
+Adam, Will and Ross for play testing
+The people at Wavelength,  who helped me with an env_global problem,  which was eventually dropped,  but I thought I should mention them anyway.
+
+------Additional Info, Tips, and Notes-------------------------------
+
+This pack contains a slightly modified titles.txt (I don't like using the game_text entity) and sentences.txt
+
+This single player map throws you in at the deep-end,  it helps if you have played Half-Life and Opposing Force before,  and you must be able to do the duck jump (the one on the training course through the pipes)   You will see a couple of bits that are familiar,  and one tiny xen bit (literally about 3 rooms)   Grunts will follow you into most areas,  just be patient with them.
+
+This is my first map for any game (I'm not saying this hoping for pity,  just fact)   Tested on a pII 400 with 128 MB ram and voodoo banshee,  a p133 with 16 MB ram,  no 3d card (yes,  it can run on that sort of pc!) and a pII 233 with 64 MB ram,  no 3d card,  all ran fine (compared to how they would normally run),  there were no problems with the r_speeds.   I have also tested it on all three difficulties and it is possible to play.
+
+Additional Tips:
+
+Always try the retinal scanner yourself if there is no-one around to use it for you.
+
+Not all tanks are enemy see the characters around them to work out which side they are on,  and if they are enemy,  remember that all tanks have a minimum firing range,  so get in close.  At that,  their weak spots are around the turret.
+
+Laser trip wires for sentries are not always visible in normal viewing,  they may become more visible if an area contains a mist.
+
+If you see and engineer there should be a door nearby for him to open.
+
+Use whatever key you have bound to quicksave often.
+
+If you ever are online and feel like telling me everything bad about the maps :-) I usually go under the name [FDRU]Boom Box,  and often located at the bottom of the score board!
+
+------Play Information-----------------------------------------------
+
+Deathmatch	:no
+Single Player	:yes
+How Many Players : 2 if you try to play it on coop
+
+------Map Information------------------------------------------------
+
+New Textures	:no
+New Sounds	:yes
+Prefabs used          :none - I wanted it to be my work,  and it took me ages to get some sequences like the tank and the air vent to work,  and i hope you enjoy them as much as I did making them.   I also loaded up the original maps in game and made sketches so that I could make an accurate representation of them when I recreated some areas.
+------Construction---------------------------------------------------
+
+Base		:new map
+Editor(s) used	:WorldCraft 2.0
+Compile Machine	:P2 400 Mhz with 128 MB RAM
+Compile time	:I dont know
+Playtest time	:about 2 months final version.
+
+------Map Instructions-----------------------------------------------
+
+Unzip the files in this archive.  Place the maps in
+your half-life/gearbox directory.  Load up Opposing Force (using Custom game or whatever shortcut you have),  make sure you run it with the -console command,  select console,  type skill (0-2) where 0=easy and 2=hard then type in the console "map opfor1"
+
+------Copyright-Permissions------------------------------------------
+
+This template is available at The radium Half-Life Map Center...
+http://www.planethalflife.com/radium
+
+Authors MAY NOT use this level as a base to build additional levels.
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS!!!. If you don't co-operate, then DON'T DISTRIBUTE
+IT IN ANY FORM!!.
+
+This BSP may be distributed ONLY over the Internet and/or BBS systems.
+You are NOT authorized to put this BSP on any CD or distribute it in
+any way without my permission.
+
+I do not accept any responsability for any damage done to your computer,  
+you use this pack at your own risk.
