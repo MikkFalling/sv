@@ -1,0 +1,9 @@
+Campaign Vote Lobby
+
+Stand on the floor infront of a poster to vote for a campaign.
+
+
+Map by Mikk
+Vote logic by Cubemath
+images wallpapers by Cakey
+Server logo/banner by KEZAEIV & Bunnt14
