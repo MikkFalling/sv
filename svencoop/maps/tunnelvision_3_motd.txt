@@ -1,0 +1,17 @@
+Made by:		Dr. Orange
+
+campaign name:		Tunnel Vision
+
+Conversion by:		Mikk
+
+Script entities by:	Outerbeast
+
+Sources:
+Play the original maps/mod
+https://www.moddb.com/games/half-life/addons/tunnel-vision
+
+Anti-Rush entity
+https://github.com/Outerbeast/anti_rush
+
+Checkpoint Spawner
+https://github.com/Outerbeast/Entities-and-Gamemodes/blob/master/checkpoint_spawner.as
